@@ -1,7 +1,9 @@
 <template>
-  <div>
-    <x-button>Default</x-button>
-  </div>
+  <NuxtLayout name="main-background">
+    <section class="w-full">
+      test
+    </section>
+  </NuxtLayout>
 </template>
 
 <script lang="ts" setup>

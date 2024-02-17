@@ -22,3 +22,7 @@ logs
 .env
 .env.*
 !.env.example
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tailwind.json
